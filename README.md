@@ -37,5 +37,4 @@ https://user-images.githubusercontent.com/71257512/130733131-7613840b-3062-4399-
 ### Please Go through this [Document](https://docs.google.com/document/d/1FUak7BSp467CnqKWBxS8ZbsCquiqKriw/edit?usp=sharing&ouid=104052966349863954359&rtpof=true&sd=true) for more Info.
 
 ### Contributors:
-- [Sudharsan B](https://www.linkedin.com/in/sudharsan-b-9447a51ab/)
 - [Balaji K](https://www.linkedin.com/in/balaji-k-3127a01ab/)
